@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="62"
+   height="62"
+   viewBox="0 0 62 62"
+   style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="napkin-selection (1)a.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="13.527663"
+     inkscape:cx="32.96948"
+     inkscape:cy="31.971525"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="items" />
+  <g
+     id="items"
+     style="isolation:isolate;fill:#000080;stroke:#0000ff">
+    <g
+       id="blend"
+       style="mix-blend-mode:normal;fill:#00ffff;stroke:#0000ff">
+      <g
+         id="g-root-bloc_1ur632ulookcv-fill"
+         data-item-order="1000000000"
+         data-item-id="bloc_1ur632ulookcv"
+         data-item-class="Icon Stroke"
+         data-item-index="none"
+         data-renderer-id="0"
+         transform="translate(3, 3)"
+         style="fill:#00ffff;stroke:#0000ff" />
+      <g
+         id="g-root-bloc_1ur632ulookcv-stroke"
+         data-item-order="1000000000"
+         data-item-id="bloc_1ur632ulookcv"
+         data-item-class="Icon Stroke"
+         data-item-index="none"
+         data-renderer-id="0"
+         transform="translate(3, 3)"
+         style="fill:#00ffff;stroke:#0000ff">
+        <g
+           id="bloc_1ur632ulookcv-stroke"
+           fill="none"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke="#484848"
+           stroke-width="2"
+           style="fill:#00ffff;stroke:#0000ff">
+          <g
+             id="g1"
+             style="fill:#00ffff;stroke:#0000ff">
+            <path
+               d="M 25.7995 13.3255C 25.7995 14.540803 26.784698 15.526 28 15.526C 29.215302 15.526 30.2005 14.540803 30.2005 13.3255C 30.2005 12.110197 29.215302 11.125 28 11.125C 26.784698 11.125 25.7995 12.110197 25.7995 13.3255M 25.801001 42.6745C 25.801001 43.889805 26.786198 44.875 28.001501 44.875C 29.216803 44.875 30.202 43.889805 30.202 42.6745C 30.202 41.459198 29.216803 40.473999 28.001501 40.473999C 26.786198 40.473999 25.801001 41.459198 25.801001 42.6745M 37.536999 35.341C 37.536999 36.556305 38.522198 37.5415 39.737503 37.5415C 40.952805 37.5415 41.938 36.556305 41.938 35.341003C 41.938 34.125698 40.952805 33.140499 39.737503 33.140499C 38.522198 33.140499 37.536999 34.125698 37.536999 35.341003M 14.062 35.341C 14.062 36.556305 15.047197 37.5415 16.262501 37.5415C 17.477802 37.5415 18.463001 36.556305 18.463001 35.341003C 18.463001 34.125698 17.477802 33.140499 16.262501 33.140499C 15.047197 33.140499 14.062 34.125698 14.062 35.341003M 37.536999 20.6635C 37.536999 21.878803 38.522198 22.864 39.737503 22.864C 40.952805 22.864 41.938 21.878803 41.938 20.6635C 41.938 19.448198 40.952805 18.463001 39.737503 18.463001C 38.522198 18.463001 37.536999 19.448198 37.536999 20.6635M 14.062 20.6635C 14.062 21.878803 15.047197 22.864 16.262501 22.864C 17.477802 22.864 18.463001 21.878803 18.463001 20.6635C 18.463001 19.448198 17.477802 18.463001 16.262501 18.463001C 15.047197 18.463001 14.062 19.448198 14.062 20.6635M 25.066 28C 25.066 29.620403 26.379597 30.934 28 30.934C 29.620403 30.934 30.934 29.620403 30.934 28C 30.934 26.379597 29.620403 25.066 28 25.066C 26.379597 25.066 25.066 26.379597 25.066 28M 28 25.066L 28 19.195M 28 36.805L 28 30.934M 25.7995 21.396999L 28 19.195L 30.2005 21.396999M 25.7995 34.603001L 28 36.805L 30.2005 34.603001M 35.336502 23.5975L 30.517 26.4895M 33.136002 22.716999L 35.338001 23.5975L 35.0425 26.091999M 20.665001 23.5975L 25.483 26.4895M 22.864 22.716999L 20.6635 23.5975L 20.9575 26.091999M 35.336502 32.4025L 30.517 29.5105M 33.136002 33.281502L 35.336502 32.4025L 35.0425 29.9065M 20.6635 32.4025L 25.483 29.5105M 22.864 33.281502L 20.6635 32.4025L 20.9575 29.9065"
+               id="path1"
+               style="fill:#00ffff;stroke:#0000ff" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
